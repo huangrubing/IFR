@@ -1,7 +1,7 @@
 # Search-for-Boundary
 
 
-Environment: As shown our paper "Identification of Failure Regions for Programs with Numeric Inputs".
+Environment: As shown in our paper "Identification of Failure Regions for Programs with Numeric Inputs".
  
 JDK: jre1.8.0_101;
 
